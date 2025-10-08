@@ -1,0 +1,16 @@
+body {
+  background-color: #e9f7ef;
+  font-family: "Hiragino Kaku Gothic ProN", sans-serif;
+}
+
+h1 {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+}
+
+nav a {
+  color: #2e7d32;
+  text-decoration: none;
+  margin: 0 5px;
+}
